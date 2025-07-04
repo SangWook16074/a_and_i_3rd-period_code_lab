@@ -1,0 +1,3 @@
+[submodule "flutter_calculator"]
+	path = flutter_calculator
+	url = https://github.com/SangWook16074/flutter_calculator_example.git
