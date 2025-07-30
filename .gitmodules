@@ -1,3 +1,6 @@
 [submodule "flutter_calculator"]
 	path = flutter_calculator
 	url = https://github.com/SangWook16074/flutter_calculator_example.git
+[submodule "a_and_i_3rd-period_code_lab"]
+	path = a_and_i_3rd-period_code_lab
+	url = https://github.com/SangWook16074/a_and_i_3rd-period_code_lab.git
