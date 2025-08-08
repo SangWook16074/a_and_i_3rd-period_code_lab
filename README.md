@@ -6,10 +6,13 @@ A&I 3기 Flutter과정 멘토링 코드랩입니다.
 ## 목차
 - Flutter 계산기 프로젝트
 - Flutter 타이머 프로젝트
+- Flutter 투두앱 프로젝트
 ## 파일구조
 
 code_lab
 
 ┣flutter_calculator # 1주차 : Flutter 계산기 프로젝트
 
-┗flutter_timer # 4주차 : Flutter 타이머 프로젝트
+┣flutter_timer # 4주차 : Flutter 타이머 프로젝트
+
+┗flutter_timer # 5주차 : Flutter 투두앱 프로젝트
