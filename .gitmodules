@@ -4,3 +4,6 @@
 [submodule "flutter_timer"]
 	path = flutter_timer
 	url = https://github.com/SangWook16074/flutter_timer.git
+[submodule "flutter_todo_application"]
+	path = flutter_todo_application
+	url = https://github.com/SangWook16074/flutter_todo_application.git
