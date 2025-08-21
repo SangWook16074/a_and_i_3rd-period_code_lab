@@ -10,3 +10,9 @@
 [submodule "06_assets"]
 	path = 06_assets
 	url = https://github.com/SangWook16074/06_assets.git
+[submodule "flutter_todo_application_v2"]
+	path = flutter_todo_application_v2
+	url = https://github.com/SangWook16074/flutter_todo_application_v2.git
+[submodule "flutter_todo_application_v3"]
+	path = flutter_todo_application_v3
+	url = https://github.com/SangWook16074/flutter_todo_application_v3.git
