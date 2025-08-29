@@ -16,3 +16,6 @@
 [submodule "flutter_todo_application_v3"]
 	path = flutter_todo_application_v3
 	url = https://github.com/SangWook16074/flutter_todo_application_v3.git
+[submodule "flutter_todo_application_v4"]
+	path = flutter_todo_application_v4
+	url = https://github.com/SangWook16074/flutter_todo_application_v4.git
